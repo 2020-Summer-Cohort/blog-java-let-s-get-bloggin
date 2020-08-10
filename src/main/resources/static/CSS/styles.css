@@ -1,15 +1,26 @@
 body {
     background-image: url(../images/blog.jpg);
     background-size: 100%;
-    /* background-attachment: fixed; */
-    /* font-family: 'Oswald', sans-serif; */
+    background-attachment: fixed;
+    font-family: 'Oswald', sans-serif;}
 
 
 
-/* h1 {
-    font-family: cursive;
+h1 {
+    /* font-family: cursive; */
     text-align: center;
     color: black;
     background-color: turquoise;
-} */
+
+}
+
+ul li {
+    background-size: 40%;
+    background-color: black;
+}
+
+a {
+    color: turquoise;
+    background-size: 40%;
+}
     
