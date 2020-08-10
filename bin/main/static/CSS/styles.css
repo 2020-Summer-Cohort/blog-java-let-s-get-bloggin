@@ -14,6 +14,16 @@ h1 {
 
 }
 
+h2 {
+    color: white;
+    background-color: black;
+}
+
+h3 {
+    color: white;
+    
+}
+
 ul li {
     background-size: 40%;
     background-color: black;
@@ -24,3 +34,16 @@ a {
     background-size: 40%;
 }
     
+body.milkyway {
+    background-image: url(../images/milkyway.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    /* background-position: top left; */
+    padding-bottom: 1000px;
+}
+
+p {
+    width: 55%;
+    color: white;
+    justify-content: space-evenly;
+}
